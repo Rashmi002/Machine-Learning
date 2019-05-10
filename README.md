@@ -1,2 +1,2 @@
 # Machine-Learning
-This repository contains all the machine learning algorithms with python code.
+Let's learn and witness the journey of machine which become dumb to smart by Us!
